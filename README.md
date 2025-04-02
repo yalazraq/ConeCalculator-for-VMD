@@ -14,4 +14,6 @@ Process:
 Done.
 
 
+be sure to install necessary dependancies. Numpy, MDtraj, MatPlotLib
+
 program can be ran on command line, but I prefer you run in either spyder or vscode
