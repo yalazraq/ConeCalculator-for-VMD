@@ -12,3 +12,6 @@ Process:
 7. program repeats to step 3 until you are satisfied with the number of cones you need in your program
 
 Done.
+
+
+program can be ran on command line, but I prefer you run in either spyder or vscode
